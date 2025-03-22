@@ -29,10 +29,3 @@ Hi, I'm Yuki.xyz, a passionate self-taught **Pentester** and **Cheat Developer**
 <a href="https://github.com/yukixyz/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yukixyz&layout=compact&theme=material-palenight" />
 </a>
-
-<a href="https://github.com/yukixyz/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yukixyz&repo=github-readme-stats&theme=material-palenight" />
-</a>    
-<a href="https://github.com/yukixyz/yukixyz.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yukixyz&repo=yukixyz.github.io&theme=material-palenight" />
-</a>

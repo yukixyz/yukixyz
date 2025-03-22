@@ -16,7 +16,7 @@ Hi, I'm Yuki.xyz, a passionate self-taught **Pentester** and **Cheat Developer**
 - ⚡ Fun fact: I love breaking things to learn how they work.
 - 
 <code><img height="20" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CS.svg"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/98b3c2d70a78d7fdc027baaaaf0faa989d6ba474/topics/python/python.png](https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg"></code>
+<code><img height="20" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/37c71fdca4e12086faf8c7009793d2eb588c914e/topics/bash/bash.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/d2d5e2f2eb1f96e05e8429b2b6b4a4c3d46c344b/topics/csharp/csharp.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/0b3f7e2a119b3d7c0864f1220b75571a6a0a763a/topics/cpp/cpp.png"></code>

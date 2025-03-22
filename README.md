@@ -1,6 +1,6 @@
 ### Hi there, I'm [Yuki.xyz!](https://yuki.xyz) 👋  
 
-<a href="[https://discord.gg/yourdiscord](https://discord.gg/yukiwtf)">
+<a href="[https://discord.gg/yukiwtf](https://discord.gg/yukiwtf)">
   <img align="left" alt="Yuki's Discord" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" />
 </a>  
 

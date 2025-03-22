@@ -17,12 +17,12 @@ Hi, I'm Yuki.xyz, a passionate self-taught **Pentester** and **Cheat Developer**
 - 
 <code><img height="20" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CS.svg"></code>
 <code><img height="20" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/37c71fdca4e12086faf8c7009793d2eb588c914e/topics/bash/bash.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/d2d5e2f2eb1f96e05e8429b2b6b4a4c3d46c344b/topics/csharp/csharp.png"></code>
+<code><img height="20" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg"></code>
+<code><img height="20" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bash-Dark.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/0b3f7e2a119b3d7c0864f1220b75571a6a0a763a/topics/cpp/cpp.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/d8f5c0d1ffb7f5845fcd90b554377efb11b72b80/topics/assembly/assembly.png"></code>  
 
-*NOTE: Top languages does not indicate my skill level or something like that, it's a GitHub metric of which languages I have the most code on GitHub, it's a new feature of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)*
+*NOTE: Top languages does not indicate my skill level or something like that, it's a GitHub metric of which languages I have the most code on GitHub, it's a new feature of [github-readme-stats]
 
 <a href="https://github.com/yuki.xyz/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=yuki.xyz&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Yuki.xyz's github stats" />

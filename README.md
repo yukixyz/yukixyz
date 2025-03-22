@@ -1,21 +1,6 @@
-### Hi there, I'm yuki 👋
-
-<a href="https://discord.gg/yukiwtf">
-  <img align="left" alt="yukis Discord" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" />
-</a>
-
-<br />
-<br />
-
 ### Hi there, I'm [Yuki.xyz!](https://yuki.xyz) 👋  
 
-<a href="https://codesandbox.io/u/yuki_xyz">
-  <img align="left" alt="Yuki.xyz | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/codesandbox.svg" />
-</a>
-<a href="https://twitter.com/yuki_xyz">
-  <img align="left" alt="Yuki.xyz | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
-</a>
-<a href="https://discord.gg/yourdiscord">
+<a href="[https://discord.gg/yourdiscord](https://discord.gg/yukiwtf)">
   <img align="left" alt="Yuki's Discord" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" />
 </a>  
 

@@ -24,15 +24,15 @@ Hi, I'm Yuki.xyz, a passionate self-taught **Pentester** and **Cheat Developer**
 *NOTE: Top languages does not indicate my skill level or something like that, it's a GitHub metric of which languages I have the most code on GitHub, it's a new feature of [github-readme-stats]
 
 <a href="https://github.com/yukixyz/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=yuki.xyz&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Yuki.xyz's github stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=yukixyz&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Yukixyz's github stats" />
 </a>
 <a href="https://github.com/yukixyz/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuki.xyz&layout=compact&theme=material-palenight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yukixyz&layout=compact&theme=material-palenight" />
 </a>
 
 <a href="https://github.com/yukixyz/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yuki.xyz&repo=github-readme-stats&theme=material-palenight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yukixyz&repo=github-readme-stats&theme=material-palenight" />
 </a>    
 <a href="https://github.com/yukixyz/yukixyz.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yuki.xyz&repo=yuki.xyz.github.io&theme=material-palenight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yukixyz&repo=yukixyz.github.io&theme=material-palenight" />
 </a>

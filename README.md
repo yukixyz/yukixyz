@@ -19,8 +19,7 @@ Hi, I'm Yuki.xyz, a passionate self-taught **Pentester** and **Cheat Developer**
 <code><img height="20" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg"></code>
 <code><img height="20" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg"></code>
 <code><img height="20" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bash-Dark.svg"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/0b3f7e2a119b3d7c0864f1220b75571a6a0a763a/topics/cpp/cpp.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/d8f5c0d1ffb7f5845fcd90b554377efb11b72b80/topics/assembly/assembly.png"></code>  
+<code><img height="20" src="https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg"></code>
 
 *NOTE: Top languages does not indicate my skill level or something like that, it's a GitHub metric of which languages I have the most code on GitHub, it's a new feature of [github-readme-stats]
 

@@ -7,8 +7,6 @@
 <br />
 <br />
 
-### 👋 Hi, I'm **Yuki.xyz**
-
 I’m a self-taught **Offensive Security Researcher** and **Pentester** focused on vulnerability discovery, exploitation, and low-level systems security.
 
 ---

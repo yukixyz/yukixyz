@@ -37,7 +37,7 @@ I’m a self-taught **Offensive Security Researcher** and **Pentester** focused 
 
 #### 📫 Get in Touch
 - 💬 Discussions & collaborations: [GitHub Issues](https://github.com/yuki.xyz/yuki.xyz/issues)  
-- 🌐 More at: [github.com/yuki.xyz](https://github.com/yuki.xyz)
+- 🌐 More at: [info@yukixyz.xyz](https://github.com/yuki.xyz)
 
 ---
 

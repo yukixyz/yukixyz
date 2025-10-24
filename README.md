@@ -1,4 +1,7 @@
-### Hi there, I'm [Yuki.xyz!](https://yuki.xyz) 👋  
+<div align="center">
+  <img src="https://i.pinimg.com/originals/bc/80/5a/bc805a2b5dee6870952628318290b3dd.gif" width="180" />
+  <h1>Hi there, I'm <a href="https://yuki.xyz">Yuki.xyz!</a> 👋</h1>
+</div>
 
 <a href="https://discord.gg/yukiwtf">
   <img align="left" alt="Yuki's Discord" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" />

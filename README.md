@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="bc805a2b5dee6870952628318290b3dd.gif" width="180" />
+  <img src="bc805a2b5dee6870952628318290b3dd.gif" width="600" />
   <h1>Hi there, I'm <a href="https://yuki.xyz">Yuki.xyz!</a> 👋</h1>
 </div>
 
